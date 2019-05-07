@@ -46,8 +46,6 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [Google Cloud Platform Guide](https://cloud.google.com/ml-engine/)
 
-
-
-
+*Reminder: our class will hopefully get a university grant from Google soon so that we can train models using TensorFlow in the cloud via Google Cloud Platform (GCP), but we are waiting to hear back. Feel free to train locally & utilize free trials in the meantime. Reach out to me meghan.kane@h-da.de with any questions.*
 
 
