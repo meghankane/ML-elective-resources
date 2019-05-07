@@ -1,6 +1,8 @@
 # ML-elective-resources
 Resources for learning more for various ML concepts to supplement my ML elective lectures @ Hochschule Darmstadt (Summer Term 2019)
 
+[Lectures 1+2 slides](https://docs.google.com/presentation/d/1r_rBH3DzETQgsMXyQg8jhr35IQZoDDU__eBDV51Bcoo/edit?usp=sharing)
+
 # Foundational ML Concepts
 
 ## Introductory Blog Posts, Courses, Books, & Other Materials
