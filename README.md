@@ -48,6 +48,23 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [Google Cloud Platform Guide](https://cloud.google.com/ml-engine/)
 
+## Debugging Training Issues - TensorBoard
+
+[TensorFlow Tutorial: Get Started with TensorBoard](https://www.tensorflow.org/tensorboard/r2/get_started)
+
+## Deploying ML Model: Browser
+
+One approach is to convert your Python TensorFlow (Keras) models to TensorFlow.js & then use them with node.js
+[TensorFlow Python Keras -> TensorFlow.js Conversion Docs](https://www.tensorflow.org/js/tutorials/conversion/import_keras)
+[End-to-End Example: NLP TensorFlow Keras Model -> Browser Predictions](https://towardsdatascience.com/nlp-keras-model-in-browser-with-tensorflow-js-f4d5035466a2)
+
+## Deploying ML Model: Embedded Device
+
+Use TensorFlow Lite ("TF Lite")
+[TFLite Documentation](https://www.tensorflow.org/lite)
+If you've already trained a model using TensorFlow, you can convert to TFLite
+[TensorFlow -> TFLite](https://www.tensorflow.org/lite/guide/get_started#2_convert_the_model_format)
+
 *Reminder: our class will hopefully get a university grant from Google soon so that we can train models using TensorFlow in the cloud via Google Cloud Platform (GCP), but we are waiting to hear back. Feel free to train locally & utilize free trials in the meantime. Reach out to me meghan.kane@h-da.de with any questions.*
 
 
