@@ -15,7 +15,7 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 # Foundational ML Concepts
 
-## Introductory Blog Posts, Courses, Books, & Other Materials
+## Overviews of ML Concepts
 
 [An Overview of Deep Learning for Curious People (by Lilian Weng from OpenAI)](http://bit.ly/2V61wBa)
 
@@ -25,14 +25,17 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [Michael Nielsen's Neural Networks and Deep Learning E-Book](http://neuralnetworksanddeeplearning.com/)
 
-## RNNs
+## Types of Networks
+
+### RNNs
+
+[RNNs: Overview & Remembering What's Important](https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce)
 
 [Understanding LSTM networks by Chris Olah](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 [Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-
-## TensorFlow Tutorials, Examples, & Other Resources
+# TensorFlow Tutorials, Examples, & Other Resources
 
 [TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials/)
 [TensorFlow JavaScript Demos](https://www.tensorflow.org/js/demos)
@@ -41,15 +44,17 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [TensorFlow Annual Dev Summit Videos (March 2019)](https://www.youtube.com/watch?v=P4_rJfHpr7k&list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
 
-
-## Structuring ML Projects: Problem Framing & Other Guides
+# Problem Framing
 
 [Google Machine Learning Interactive Course: Problem Framing](https://developers.google.com/machine-learning/problem-framing/)
 
 [Machine Learning Yearning Free Short Book/Guide to Structuring ML Projects](https://www.mlyearning.org/)
 
+# 4 Stages of ML Process
 
-## Datasets & Prep
+## 1. Frame the ML Problem
+
+## 2. Prepare Data
 
 ### Datasets
 
@@ -63,11 +68,11 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [Google Machine Learning Interactive Course: Data Preparation](https://developers.google.com/machine-learning/data-prep/)
 
-## Training
+## 3. Train ML Model
 
-[Google Cloud Platform Guide](https://cloud.google.com/ml-engine/)
-
-## Debugging Training Issues - TensorBoard
+### Debugging Training Issues
 
 [TensorFlow Tutorial: Get Started with TensorBoard](https://www.tensorflow.org/tensorboard/r2/get_started)
+
+## 4. Predict Using ML Model
 
