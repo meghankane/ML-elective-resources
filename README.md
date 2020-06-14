@@ -35,24 +35,16 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-# TensorFlow Tutorials, Examples, & Other Resources
-
-[TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials/)
-[TensorFlow JavaScript Demos](https://www.tensorflow.org/js/demos)
-
-[Seedbank: Collection of Interactive ML Examples (by Google Research)](https://research.google.com/seedbank/)
-
-[TensorFlow Annual Dev Summit Videos (March 2019)](https://www.youtube.com/watch?v=P4_rJfHpr7k&list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
-
-# Problem Framing
-
-[Google Machine Learning Interactive Course: Problem Framing](https://developers.google.com/machine-learning/problem-framing/)
-
-[Machine Learning Yearning Free Short Book/Guide to Structuring ML Projects](https://www.mlyearning.org/)
-
 # 4 Stages of ML Process
 
 ## 1. Frame the ML Problem
+
+[Google Machine Learning Interactive Course: Problem Framing](https://developers.google.com/machine-learning/problem-framing/)
+
+[Powered by TensorFlow YouTube Playlist](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyLQDomfBj-ptdBGTxAHwV_)
+Playlist of inspiring use cases of TensorFlow for idea generation for your projects
+
+[Machine Learning Yearning Free Short Book/Guide to Structuring ML Projects](https://www.mlyearning.org/)
 
 ## 2. Prepare Data
 
@@ -69,6 +61,17 @@ Resources for learning more for various ML concepts to supplement my ML elective
 [Google Machine Learning Interactive Course: Data Preparation](https://developers.google.com/machine-learning/data-prep/)
 
 ## 3. Train ML Model
+
+### Example Projects & Tutorials
+
+[TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials/)
+[TensorFlow JavaScript Demos](https://www.tensorflow.org/js/demos)
+
+[Seedbank: Collection of Interactive ML Examples (by Google Research)](https://research.google.com/seedbank/)
+
+### Other TensorFlow Resources
+
+[TensorFlow Annual Dev Summit Videos (March 2019)](https://www.youtube.com/watch?v=P4_rJfHpr7k&list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
 
 ### Debugging Training Issues
 
