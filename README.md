@@ -1,7 +1,17 @@
 # ML-elective-resources
-Resources for learning more for various ML concepts to supplement my ML elective lectures @ Hochschule Darmstadt (Summer Term 2019)
+Resources for learning more for various ML concepts to supplement my ML elective lectures @ Hochschule Darmstadt (Summer Term 2020)
 
-[Lectures 1+2 slides](https://docs.google.com/presentation/d/1r_rBH3DzETQgsMXyQg8jhr35IQZoDDU__eBDV51Bcoo/edit?usp=sharing)
+[Lecture & office hours slides](https://docs.google.com/presentation/d/1c3Q1wKdiih4wSsALzkRAaFHWvEGbw8N_j0FnkKFjs4Y/edit#slide=id.p)
+
+[Preliminary ML Learning Material](https://docs.google.com/document/d/1yu3HtMsD56x2zqLvCBtXSEyjr1o4UYx3ipi7s81rouI/edit)
+
+[TensorFlow setup & examples](https://docs.google.com/document/d/1HMhhLS3S-3TZKtYvlbAM-Ws3PHoZXSN_GeY7yep6nNw/edit?usp=sharing)
+
+## Deliverables
+
+[Exposé: due Friday 3 July](https://docs.google.com/document/d/1tOfRYksPGWgbjAYYbUrG3alNfpi321Ou3j-jE_MOtog/edit?usp=sharing)
+
+[Final Project: presentation during week of 17 July](https://docs.google.com/document/d/1AAGWfRQm6DZRrfZJKpbFew28XDtt_2wj9kZb3G9UwcM/edit)
 
 # Foundational ML Concepts
 
@@ -11,18 +21,23 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [3Blue1Brown Neural networks videos with excellent visualizations](https://www.3blue1brown.com/neural-networks)
 
-[Michael Nielsen's Neural Networks and Deep Learning E-Book (free)](http://neuralnetworksanddeeplearning.com/)
+[Machine Learning for Everyone: Longform overview blogpost with nice graphics](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-[fast.ai: Excellent free course. Note: Uses Python & PyTorch](https://www.fast.ai/)
+[Michael Nielsen's Neural Networks and Deep Learning E-Book](http://neuralnetworksanddeeplearning.com/)
+
+## RNNs
+
+[Understanding LSTM networks by Chris Olah](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+[Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
 ## TensorFlow Tutorials, Examples, & Other Resources
 
 [TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials/)
+[TensorFlow JavaScript Demos](https://www.tensorflow.org/js/demos)
 
 [Seedbank: Collection of Interactive ML Examples (by Google Research)](https://research.google.com/seedbank/)
-
-[TensorFlow Official JavaScript Demos](https://www.tensorflow.org/js/demos)
 
 [TensorFlow Annual Dev Summit Videos (March 2019)](https://www.youtube.com/watch?v=P4_rJfHpr7k&list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
 
@@ -33,16 +48,20 @@ Resources for learning more for various ML concepts to supplement my ML elective
 
 [Machine Learning Yearning Free Short Book/Guide to Structuring ML Projects](https://www.mlyearning.org/)
 
-[Andreeson Horowitz VC (A16Z) AI Playbook](http://aiplaybook.a16z.com/)
-
 
 ## Datasets & Prep
 
-[Open Datasets](https://skymind.ai/wiki/open-datasets)
+### Datasets
+
+[TensorFlow Datasets](https://www.tensorflow.org/datasets)
+
+[Open Datasets](https://pathmind.com/wiki/open-datasets)
 
 [Blog Post (Oct 2018): "The Best Public Datasets for Machine Learning and Data Science"](https://towardsdatascience.com/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 
-[Google Machine Learning Interactive Course: Data Prep](https://developers.google.com/machine-learning/data-prep/)
+### Preparation
+
+[Google Machine Learning Interactive Course: Data Preparation](https://developers.google.com/machine-learning/data-prep/)
 
 ## Training
 
@@ -51,20 +70,4 @@ Resources for learning more for various ML concepts to supplement my ML elective
 ## Debugging Training Issues - TensorBoard
 
 [TensorFlow Tutorial: Get Started with TensorBoard](https://www.tensorflow.org/tensorboard/r2/get_started)
-
-## Deploying ML Model: Browser
-
-One approach is to convert your Python TensorFlow (Keras) models to TensorFlow.js & then use them with node.js
-[TensorFlow Python Keras -> TensorFlow.js Conversion Docs](https://www.tensorflow.org/js/tutorials/conversion/import_keras)
-[End-to-End Example: NLP TensorFlow Keras Model -> Browser Predictions](https://towardsdatascience.com/nlp-keras-model-in-browser-with-tensorflow-js-f4d5035466a2)
-
-## Deploying ML Model: Embedded Device
-
-Use TensorFlow Lite ("TF Lite")
-[TFLite Documentation](https://www.tensorflow.org/lite)
-If you've already trained a model using TensorFlow, you can convert to TFLite
-[TensorFlow -> TFLite](https://www.tensorflow.org/lite/guide/get_started#2_convert_the_model_format)
-
-*Reminder: our class will hopefully get a university grant from Google soon so that we can train models using TensorFlow in the cloud via Google Cloud Platform (GCP), but we are waiting to hear back. Feel free to train locally & utilize free trials in the meantime. Reach out to me meghan.kane@h-da.de with any questions.*
-
 
